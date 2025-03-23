@@ -1,0 +1,19 @@
+{
+    "name": "pc/project",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^5.3",
+        "twbs/bootstrap-sass": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pc\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahlam Azzaoui"
+        }
+    ],
+    "minimum-stability": "stable"
+}
